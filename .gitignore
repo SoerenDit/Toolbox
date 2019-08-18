@@ -3,10 +3,6 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
-# Added by me
-*.csproj
-*.sln
-
 # User-specific files
 *.rsuser
 *.suo
